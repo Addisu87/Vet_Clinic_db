@@ -10,7 +10,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
-![]("https://imgur.com/RTt0F4c")
+![](./Schema.png)
 
 ## Author
 
